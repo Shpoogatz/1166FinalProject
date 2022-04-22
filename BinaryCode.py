@@ -1,7 +1,11 @@
 from os import path
 
 '''
-# Daniel Mogil and Jacob Creasy
+Daniel Mogil and Jacob Creasy
+1166 Fianl Project
+Professor Crotty 
+
+Correcting bit errors in transmitted binary codes.
 
 * assume triple repetition encoding
 '''
